@@ -1,4 +1,4 @@
-# Lichess Telegram Bot
+# Community Telegram Bot
 
 I needed to have to a telegram text message sent to me of a game played by any member of [Nyumbani Mates](https://lichess.org/team/nyumbani-mates) 
 team at [Lichess.org](https://lichess.org/). So i decided to create this Bot that checks if the player is online and current playing chess at [Lichess.org](https://lichess.org/) and send me the link of the Game via Telegram.
